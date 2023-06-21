@@ -1,0 +1,63 @@
+
+.btn-dinnerread{
+	background: transparent;
+	border-radius: 0;
+	border: 1px solid #ffffff;
+	color: #fff;
+}
+
+.dinner-section {
+	background-color:#000;
+	color: #fff;
+}
+.dinner-title h3{
+	color: #fff;
+	font-size:30px;
+	text-align: center;
+}
+
+.dinner-title{
+	color: #555;
+	padding-bottom:30px;
+	padding-top:40px;
+}
+.dinner-col{
+	height: 250px;
+	background: radial-gradient(#6e6e6e,#2f2f2f);
+	background: -webkit-radial-gradient(#6e6e6e,#2f2f2f);
+	background: -moz-radial-gradient(#6e6e6e,#2f2f2f);
+	color: #fff;
+	position: relative;
+	overflow:hidden;
+	margin: 15px auto;
+}
+
+.dinner-col .dinner-content{
+	position: absolute;
+	text-align: center;
+	padding: 10px 19px 19px 19px;
+	width: 100%;
+	height: 100%;
+	border-top: 1px solid #fff;
+	background: rgba(0, 0, 0, 0.71);
+	bottom: -80%;
+	transition: ease-in-out .5s;	
+}
+.dinner-col:hover .dinner-content {
+	bottom: 0;
+	text-align: center;
+	padding: 90px 19px 19px 19px;
+	color:#fff;
+}
+.dinner-col .dinner-content h3{
+	margin: 0;
+	padding-bottom:30px;
+}
+
+.dinner-content a:hover{
+	color: #fff;
+}
+.dinner-col img{
+	height: 100%;
+}
+

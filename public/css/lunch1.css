@@ -1,0 +1,53 @@
+
+
+ .entry-header{
+ height:750px;
+ margin: 50px 0;
+}
+
+
+.entry-header p>strong{
+font-size: 18px;
+}
+
+.entry-header p{
+    font-size: 16px;
+}
+
+
+
+.entry-header h1{
+	padding:50px 0 50px 0;
+    font-size: 30px;
+    font-family: Times !important;
+    font-style: italic !important;
+} 
+.about-tabs {
+	padding: 100px 0;
+	background-color:#000;
+	color:#fff;
+	text-align: center;
+}
+.about-tabs ul{
+    text-align: center;
+        padding-left: 398px;
+}
+
+.about-tabs ul>li{
+    text-align: center;
+    display: inline-block;
+}
+.about-tabs ul>li>a{
+    background: #45667F;
+    color: #fff;
+    padding: 10px;
+        font-size: 18px;
+}
+.about-tabs ul>li>a:hover{
+    background: #fff;
+    color:  #F79B3C;
+}
+
+.active{
+	text-align: center;
+}

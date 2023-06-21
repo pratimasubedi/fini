@@ -1,0 +1,34 @@
+
+
+
+.brkfast-image{
+	height:400px;
+	overflow: hidden;
+}
+
+.brkfast-image img{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
+
+.breakfast-section{
+	background-color: #000;
+	color: #fff;
+}
+
+
+.breakfast-section h1{
+	padding:10px 0;
+    font-size: 30px;
+    font-family: Times !important;
+    font-style: italic !important;
+}
+
+.breakfast-section p{
+font-family: "Josefin Sans" !important;
+	color: #999;
+	line-height: 24px;
+    font-size: 16px;
+
+}
